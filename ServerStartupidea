@@ -1,0 +1,117 @@
+Rpg server
+
+
+Server spawn
+I can’t build. I would like to plan a spawn with elv (I can help build -ken)
+spawn must contain:
+basic quest for players to learn how to use quest plugin
+Npc’s chatting, offering advice to new players
+Town-theme
+A place where players can teleport to ‘zones’ (quest areas)
+an area for shop
+Plugins
+ Worldguard
+ Pex/groupmanager 
+ MCMMO
+ Essentials
+ Worldedit
+ COREPROTECT
+ Votifier
+ Vault
+Voteroulette
+ Citizens
+Quests
+ MythicMobs
+ MythicBosses
+ Quests API
+ MythicDrops
+PhatLoots
+ Mobdisguise
+Chestshops
+Multiverse-Portals
+Herochat
+Worldborder
+Iconomy
+Dynmap (Maybe?)-Ken
+Heroes….??? -jen 
+Mobarena
+Holographic Displays
+PlayerVaults
+This. Yes.-ken
+The first zone
+Literally can be any build
+forest.. camp… town… etc etc
+Must be easy-ish, will contain spawners
+Basic quests, cool rewards 
+By the end of the zone players should have a decent set of armor with supplies 
+repeatable quests that give food/resources
+Expansions
+Expansions come out with zones, new zones with new quests
+Can happen monthly or whenever they’re able to come out
+MCMMO <3
+Custom skills plugin, allows players to ‘get good’ at skills and be rewarded for training them
+SECRET CHESTS LOCATED AROUND THE WORLD GIVING A SMALL BOOST IN EACH SKILL, or just providing special loot. -Ken
+Coreprotect
+Essential. Mandatory. No questions asked.
+we need it cola.
+Citizens
+Custom NPC’s that can walk, talk, or give quests
+adds an atmosphere where the player does not think he is alone
+Main focus of RPG server. 
+Quests
+Coincides with Citizens
+Make quests in-game or with notepad
+Compatible with a lot of plugins
+Weekly/maybe monthly big quest? -ken
+MythicMobs
+Create mobs with strengths - they can be easy or hard
+ex. zombie can hit for 2 hearts or 20
+Custom loot tables - can drop certain loot
+yes
+MythicBosses 
+Same idea as mythic mobs (LITERALLY THE SAME THING-Ken)
+Abilities - fireworks, fireballs, lightning, etc. 
+Spawn rates - can spawn every X chunks or every X time
+Special loot tables - % chance at drops
+more yes
+MythicDrops
+13,000,000,000,000 different items
+Custom loot, custom stats, custom drop rates, etc.
+we can configure to take out certain things (identity tomes)
+infinity yes
+Phatloots
+Customizable weapons with stats
+ex. Strength increase, hp increase, speed increase…
+Can be added in quests, mythicmobs, mythicbosses, etc.
+Mobdisguise
+Basically, donor rewards.
+Pets (?)
+Same deal - donor rewards.
+Multiverse-portals
+Teleport players specific places - specific zones
+not mandatory, but it’s a good plugin
+Maybe have requirements for each zone? Skill level reqs to move on so that a newbie can’t just jump into the last zone. -Ken
+
+To-Do List:
+Plan out spawn
+Plan out first zone
+Configure all the plugins - download files and configure them
+Teach staff how to use plugins
+start basic quests 
+make a price list for all vanilla objects - eventually implemented into a shop
+perms
+Set up custom mobs
+Set up 1 or 2 custom easy bosses
+Set up mythicDrops
+Plan out very first zone
+
+
+Things we can do if we have extra time
+set up races/classes (MAYBE) [This. Highly recommend this. Adds more to the experience, but would have to have well thought out races/classes with equally thought out backstories and yada yada-Ken]
+Extra bosses and mobs
+Another zone with more quests
+Time based ranks? (one week = upgrade, month after that = upgrade, etc. Each rank has more perms than the last, but nothing too OP. Maybe some kits, more /homes) -Ken
+Keep inventory? Maybe lose some money when they die? -Ken
+
+
+
